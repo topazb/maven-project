@@ -15,7 +15,7 @@ public class Greeter {
   /**
   * This is a string formater.
   * @return somting
-  * @param someone
+  * @param someone the name of person
   */
 
   public final String greet(final String someone) {
