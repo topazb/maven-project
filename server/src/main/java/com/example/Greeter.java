@@ -15,7 +15,7 @@ public class Greeter {
   /**
   * This is a string formater.
   * @return somting
-  * @param someting 
+  * @param someone
   */
 
   //TODO: Add javadoc comment
